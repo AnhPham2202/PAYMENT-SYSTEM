@@ -91,14 +91,10 @@ public class Main {
                     System.out.println("Please choose the correct action you want to do !!!");
                     break;
             }
-
-
-
         }
     }
 
     private static void printGuide() {
-
         System.out.println("1. Add fund");
         System.out.println("2. View bills");
         System.out.println("3. Pay bills");
